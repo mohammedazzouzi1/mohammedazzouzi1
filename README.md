@@ -1,73 +1,58 @@
-<!-- ====== HEADER ====== -->
-
-<h1 align="center">Hi 👋, I'm <span style="color:#0a84ff">Mohammed Azzouzi</span></h1>
-<h3 align="center">Étudiant en Ingénierie Informatique | Cybersécurité • IA • Big Data • Développement Web</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Azzouzi</h1>
+<h3 align="center">Étudiant en Génie Informatique | Cybersécurité • IA • Big Data • Développement Web</h3>
 
 <p align="center">
-  <a href="mailto:mohammedazzouzibusiness@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/mohammed-azzouzi">💼 LinkedIn</a> •
-  <a href="https://github.com/mohammedazzouzi1">🐙 GitHub</a>
+  📍 Fès, Maroc • 
+  📧 <a href="mailto:mohammedazzouzibusiness@gmail.com">Email</a> • 
+  💼 <a href="https://linkedin.com/in/mohammed-azzouzi">LinkedIn</a> • 
+  🐙 <a href="https://github.com/mohammedazzouzi1">GitHub</a>
 </p>
 
 ---
 
 ## 🔹 About Me
+Étudiant en ingénierie informatique à l'Université Privée de Fès, passionné par :
+- **Cybersécurité** (ISO 27001/27002, analyse réseau, 2FA)
+- **Développement Web** (React, Node.js, PHP, SQL)
+- **Robotique & IoT** (Arduino, Raspberry Pi)
+- **IA & Big Data**
 
-Étudiant en **Génie Informatique** à l’Université Privée de Fès, passionné par :  
-🚀 *Cybersécurité* • *Développement Web* • *IA & Machine Learning* • *Robotique & IoT*  
-
-Je conçois des applications sécurisées, des systèmes intelligents et j’adore résoudre des problèmes complexes.  
-Actuellement à la recherche d’un **stage** pour mettre en pratique mes compétences et évoluer dans un environnement professionnel.
+Curieux, rigoureux et orienté solutions, je conçois des applications sécurisées et des systèmes intelligents.  
+Actuellement en recherche de **stage** pour mettre mes compétences en pratique.
 
 ---
 
 ## 🛠️ Skills
 
-### **💻 Développement**
-- **Langages :** C++, Python, PHP, C#, JavaScript  
-- **Web :** HTML, CSS, JS, React.js, Node.js, PHP, WordPress  
-- **Bases de données :** MySQL, SQL
+| Développement | Cybersécurité | Robotique & IoT | Outils & Méthodes |
+|---------------|---------------|----------------|-----------------|
+| C++, Python, PHP, C# | ISO 27001/27002, IPv4/IPv6, Wireshark, 2FA | Arduino, Raspberry Pi, capteurs/actionneurs | Git, GitHub, GitLab, UML, Merise, Agile/Scrum, JIRA, Trello |
+| HTML, CSS, JS, Node.js, React.js, WordPress | Analyse réseau, sécurité web | - | Photoshop, Illustrator, Pack Office |
 
-### **🔐 Cybersécurité**
-- ISO 27001/27002  
-- Analyse réseau (IPv4/IPv6, Wireshark)  
-- Authentification sécurisée (2FA)  
+---
 
-### **🤖 Robotique & IoT**
-- Arduino, Raspberry Pi  
-- Capteurs & actionneurs
+## 💼 Experiences
 
-### **📊 Outils & Méthodes**
-- Git, GitHub, GitLab  
-- UML, Merise, Agile/Scrum  
-- JIRA, Trello  
-- Photoshop, Illustrator  
+### **Stagiaire Cybersécurité — Ministère de l'Éducation (MENFP)**
+📍 Rabat — *Juil–Sep 2024*  
+- Analyse des risques SI et conformité ISO 27001/27002  
+- Développement d’une application web sécurisée (React, SQL, 2FA)  
+**Résultat :** réduction de 30% des risques d’accès non autorisés
 
 ---
 
 ## 🚀 Projects
 
-### 🔸 **ASTZ**
-Plateforme web multi-modules (PHP, JavaScript, MySQL)
-
-### 🔸 **SkyLuxe**
-Application de réservation (jets privés, yachts, villas)  
-Technos : React, Node.js
-
-### 🔸 **Secure Web App**
-Application web sécurisée conforme ISO  
-Stack : React, SQL, 2FA, sécurité renforcée
-
-*(Envie que j’ajoute les badges, images ou liens directs de chaque dépôt ? Je peux le faire.)*
+- **ASTZ** — Plateforme web multi-modules (PHP, JS, SQL)  
+- **SkyLuxe** — Réservation de jets privés, yachts et villas (React, Node.js)  
+- **Application Web Sécurisée** — React, SQL, 2FA, conforme ISO
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedazzouzi1&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazzouzi1&layout=compact" />
-</p>
+- **Université Privée de Fès** — Ingénierie Informatique *(2022 – présent)*  
+- **Baccalauréat Scientifique — Sciences Physiques** *(2020 – 2021)*
 
 ---
 
@@ -75,27 +60,25 @@ Stack : React, SQL, 2FA, sécurité renforcée
 
 - Git pour développeurs — GitHub (2024)  
 - Fondamentaux Java — Coursera (2023)  
-- IA & Machine Learning — Coursera (2024)  
+- IA et Machine Learning — Coursera (2024)  
 - SQL & Data Engineering — Coursera (2024)
 
 ---
 
-## 🔧 Tools I Use
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,php,cpp,python,cs,mysql,html,css,js,git,linux,figma,vscode" />
-</p>
+## 🤖 Extra Activities
+
+- **UPF Robotics — Membre actif** *(Rabat, 2024–2025)*  
+  1ère place Design & 1ère place globale au NURC/AUROBAT  
+  Conception et programmation de robots autonomes
+
+- **EduChallenge — Plateforme éducative** *(Fès, 2023)*  
+  3ᵉ place pour la gestion de contenu et expérience utilisateur
 
 ---
 
-## 📬 Contact
-📧 **Email** : mohammedazzouzibusiness@gmail.com  
-💼 **LinkedIn** : linkedin.com/in/mohammed-azzouzi  
-🐙 **GitHub** : github.com/mohammedazzouzi1  
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  ⭐ *Merci d'avoir visité mon profil !*  
-  <br>
-  N’hésite pas à me suivre ou consulter mes projets.
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedazzouzi1&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazzouzi1&layout=compact" height="150" />
 </p>
