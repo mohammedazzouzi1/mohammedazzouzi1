@@ -1,84 +1,70 @@
 <h1 align="center">Hi 👋, I'm Mohammed Azzouzi</h1>
-<h3 align="center">Étudiant en Génie Informatique | Cybersécurité • IA • Big Data • Développement Web</h3>
+<h3 align="center">Développeur Web & Mobile | Passionné par le développement d'applications modernes</h3>
 
-<p align="center">
-  📍 Fès, Maroc • 
-  📧 <a href="mailto:mohammedazzouzibusiness@gmail.com">Email</a> • 
-  💼 <a href="https://linkedin.com/in/mohammed-azzouzi">LinkedIn</a> • 
-  🐙 <a href="https://github.com/mohammedazzouzi1">GitHub</a>
+---
+
+## 🚀 À propos de moi
+- 🔭 Je travaille actuellement sur : **des projets web en Java, PHP, React et Node.js**
+- 🌱 J’apprends et améliore mes compétences en : **Spring Boot, APIs REST, MySQL, React, TailwindCSS**
+- 💬 Pose-moi des questions sur : **Java, JEE, PHP, MySQL, HTML/CSS/JS**
+- 📫 Me contacter : **mohammedazzouzi551@gmail.com**
+- ⚡ Fun fact : J’adore résoudre des bugs impossibles à 3h du matin 😄
+
+---
+
+## 🛠️ Technologies & Outils
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs" />
+</p>
+
+### 🗄️ Base de données
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧰 Outils & Environnements
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
 </p>
 
 ---
 
-## 🔹 About Me
-Étudiant en ingénierie informatique à l'Université Privée de Fès, passionné par :
-- **Cybersécurité** (ISO 27001/27002, analyse réseau, 2FA)
-- **Développement Web** (React, Node.js, PHP, SQL)
-- **Robotique & IoT** (Arduino, Raspberry Pi)
-- **IA & Big Data**
+## 📌 Mes meilleurs projets
 
-Curieux, rigoureux et orienté solutions, je conçois des applications sécurisées et des systèmes intelligents.  
-Actuellement en recherche de **stage** pour mettre mes compétences en pratique.
+### 🔹 **Bibliothèque Web App — Java JEE + MySQL**
+Gestion des livres (CRUD), recherche par date, JSP + Servlets.
 
----
+### 🔹 **E-commerce simple — PHP + MySQL**
+Ajout produits, panier, gestion admin.
 
-## 🛠️ Skills
+### 🔹 **Portfolio React**
+Un site moderne avec animations et sections projets.
 
-| Développement | Cybersécurité | Robotique & IoT | Outils & Méthodes |
-|---------------|---------------|----------------|-----------------|
-| C++, Python, PHP, C# | ISO 27001/27002, IPv4/IPv6, Wireshark, 2FA | Arduino, Raspberry Pi, capteurs/actionneurs | Git, GitHub, GitLab, UML, Merise, Agile/Scrum, JIRA, Trello |
-| HTML, CSS, JS, Node.js, React.js, WordPress | Analyse réseau, sécurité web | - | Photoshop, Illustrator, Pack Office |
+*(Donne-moi les liens de tes projets et je les mets ici avec une belle présentation 👌)*
 
 ---
 
-## 💼 Experiences
-
-### **Stagiaire Cybersécurité — Ministère de l'Éducation (MENFP)**
-📍 Rabat — *Juil–Sep 2024*  
-- Analyse des risques SI et conformité ISO 27001/27002  
-- Développement d’une application web sécurisée (React, SQL, 2FA)  
-**Résultat :** réduction de 30% des risques d’accès non autorisés
-
----
-
-## 🚀 Projects
-
-- **ASTZ** — Plateforme web multi-modules (PHP, JS, SQL)  
-- **SkyLuxe** — Réservation de jets privés, yachts et villas (React, Node.js)  
-- **Application Web Sécurisée** — React, SQL, 2FA, conforme ISO
-
----
-
-## 🎓 Education
-
-- **Université Privée de Fès** — Ingénierie Informatique *(2022 – présent)*  
-- **Baccalauréat Scientifique — Sciences Physiques** *(2020 – 2021)*
-
----
-
-## 🏆 Certifications
-
-- Git pour développeurs — GitHub (2024)  
-- Fondamentaux Java — Coursera (2023)  
-- IA et Machine Learning — Coursera (2024)  
-- SQL & Data Engineering — Coursera (2024)
-
----
-
-## 🤖 Extra Activities
-
-- **UPF Robotics — Membre actif** *(Rabat, 2024–2025)*  
-  1ère place Design & 1ère place globale au NURC/AUROBAT  
-  Conception et programmation de robots autonomes
-
-- **EduChallenge — Plateforme éducative** *(Fès, 2023)*  
-  3ᵉ place pour la gestion de contenu et expérience utilisateur
-
----
-
-## 📊 GitHub Stats
+## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedazzouzi1&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazzouzi1&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedazzouzi1&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazzouzi1&layout=compact" height="165" />
 </p>
+
+---
+
+## 🤝 Me suivre
+- LinkedIn : *(donne-moi ton lien pour l’ajouter)*  
+- Portfolio : *(si tu veux je t’en crée un du zéro !)*
+
+---
+
+✨ **Merci d’avoir visité mon profil !**  
+😊 N’hésite pas à me suivre ou à voir mes projets épinglés.
