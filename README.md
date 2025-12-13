@@ -7,7 +7,7 @@
 - 🔭 Je travaille actuellement sur : **des projets web en Java, PHP, React et Node.js**
 - 🌱 J’apprends et améliore mes compétences en : **Spring Boot, APIs REST, MySQL, React, TailwindCSS**
 - 💬 Pose-moi des questions sur : **Java, JEE, PHP, MySQL, HTML/CSS/JS**
-- 📫 Me contacter : **mohammedazzouzi551@gmail.com**
+- 📫 Me contacter : **mohammedazzouzibusiness@gmail.com**
 - ⚡ Fun fact : J’adore résoudre des bugs impossibles à 3h du matin 😄
 
 ---
