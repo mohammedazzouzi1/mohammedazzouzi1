@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mohammed Azzouzi</h1>
-<h3 align="center">Développeur Web & Mobile | Passionné par le développement d'applications modernes</h3>
+<h1 align="center">Salut 👋 — Je suis Mohammed Azzouzi</h1>
+<h3 align="center">Étudiant en Génie Informatique | Développeur Web & Mobile | Passionné de Cybersécurité</h3>
 
 ---
 
-## 🚀 À propos de moi
-- 🔭 Je travaille actuellement sur : **des projets web en Java, PHP, React et Node.js**
-- 🌱 J’apprends et améliore mes compétences en : **Spring Boot, APIs REST, MySQL, React, TailwindCSS**
-- 💬 Pose-moi des questions sur : **Java, JEE, PHP, MySQL, HTML/CSS/JS**
+### 🚀 À propos de moi
+- 🎓 Étudiant en **Ingénierie Informatique — UPF (Fès)**
+- 🔐 Intéressé par : **Cybersécurité, IA, Big Data, Robotique**
+- 💻 Je développe des applications **performantes, sécurisées et modernes**
+- 🌱 J’améliore mes compétences en : **Spring Boot, React, APIs REST, MySQL**
+- 📌 Objectif actuel : **trouver un stage pour mettre en pratique mes compétences**
 - 📫 Me contacter : **mohammedazzouzibusiness@gmail.com**
-- ⚡ Fun fact : J’adore résoudre des bugs impossibles à 3h du matin 😄
 
 ---
 
-## 🛠️ Technologies & Outils
+## 🛠️ Compétences techniques
 
 ### 🌐 Frontend
 <p>
@@ -29,42 +30,59 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🧰 Outils & Environnements
+### ⚙️ Outils & Méthodes
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,linux" />
 </p>
+
+- UML, Agile/Scrum, Git/GitHub/GitLab  
+- Wireshark, ISO 27001 (bases), analyse réseau  
+- Photoshop & Illustrator (bases)
 
 ---
 
-## 📌 Mes meilleurs projets
+## 📌 Projets récents
 
-### 🔹 **Bibliothèque Web App — Java JEE + MySQL**
-Gestion des livres (CRUD), recherche par date, JSP + Servlets.
+### 🔹 **Bibliothèque Web — Java JEE + MySQL**
+Application CRUD pour gérer livres, utilisateurs, et recherche avancée.
 
 ### 🔹 **E-commerce simple — PHP + MySQL**
-Ajout produits, panier, gestion admin.
+Gestion produits, panier et tableau de bord administrateur.
 
-### 🔹 **Portfolio React**
-Un site moderne avec animations et sections projets.
+### 🔹 **Plateforme React — Portfolio**
+Site moderne avec animations et section projets.
 
-*(Donne-moi les liens de tes projets et je les mets ici avec une belle présentation 👌)*
+> 👉 **Envoie-moi les liens GitHub de tes projets — je les ajoute ici avec captures + description.**
+
+---
+
+## 🎖️ Expérience & Réalisations
+
+**Stagiaire Cybersécurité — Ministère de l’Éducation (MENFP), Rabat — 2024**  
+✔ Analyse des risques — conformité ISO 27001/27002  
+✔ Développement d’une application web sécurisée (React, SQL, 2FA)  
+✔ **Résultat : réduction de 30% des accès non autorisés**
+
+**Compétitions**
+- 🥇 1ère place — Design & classement global (NURC/AUROBAT Robotique)
+- 🥉 3ème place — EduChallenge (plateforme éducative)
 
 ---
 
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedazzouzi1&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedazzouzi1&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact" height="165" />
 </p>
 
 ---
 
-## 🤝 Me suivre
-- LinkedIn : *(donne-moi ton lien pour l’ajouter)*  
-- Portfolio : *(si tu veux je t’en crée un du zéro !)*
+## 🤝 Me retrouver en ligne
+- 🔗 LinkedIn : (ajoute ton lien)
+- 🌍 Portfolio : (je peux t’en créer un si tu veux)
 
 ---
 
-✨ **Merci d’avoir visité mon profil !**  
-😊 N’hésite pas à me suivre ou à voir mes projets épinglés.
+✨ Merci d’avoir visité mon profil !  
+Si tu veux collaborer sur un projet, **contacte-moi — je réponds vite.**
