@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005c96&height=200&section=header&text=Mohammed%20Azzouzi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Cybersecurity%20%26%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=005c96&height=200&section=header&text=Mohammed%20Azzouzi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Ing%C3%A9nieur%20Informatique%20%7C%20IA%20%26%20Cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=005C96&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+AI+Enthusiast;Full-Stack+Web+Developer;Robotics+%26+IoT+Builder;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=005C96&center=true&vCenter=true&width=600&lines=IA+%26+Automatisation+m%C3%A9tier;Cybers%C3%A9curit%C3%A9+%26+Conformit%C3%A9;D%C3%A9veloppement+Full-Stack;%C3%80+la+recherche+d%27un+stage+PFA+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,20 +14,27 @@
 name     : Mohammed Azzouzi
 location : Fès, Maroc 🇲🇦
 education: Génie Informatique — Université Privée de Fès
-focus    : Cybersécurité · Intelligence Artificielle · Développement Full-Stack
+focus    : Intelligence Artificielle · Automatisation métier · Cybersécurité · Full-Stack
 email    : mohammedazzouzibusiness@gmail.com
 linkedin : linkedin.com/in/mohammed-azzouzi
 ```
 
+- 🎯 **En recherche active** d'un stage de fin d'études (PFA) en IA / automatisation métier
+- 🤖 **IA & Data** : Machine Learning, Deep Learning, systèmes multi-agents, RAG
 - 🔐 **Cybersécurité** : audit SI, conformité ISO 27001/27002, cryptographie, 2FA
-- 🤖 **IA & Data** : Machine Learning, Deep Learning, Data Science
-- 🌐 **Full-Stack** : React, Node.js, JEE, PHP — des apps performantes et sécurisées
+- 🌐 **Full-Stack** : React, Node.js, JEE, PHP — des applications performantes et sécurisées
 - 🏆 **1ère place nationale** — NURC/AUROBAT (Robotique autonome)
-- 📩 Ouvert à toute opportunité de **stage PFE** ou collaboration
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Stack technique
+
+### IA & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+> Machine Learning · Deep Learning · Systèmes multi-agents · RAG · OCR
 
 ### Langages
 <p>
@@ -67,9 +74,11 @@ linkedin : linkedin.com/in/mohammed-azzouzi
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🔒 **[Application Web Sécurisée](https://github.com/mohammedazzouzi0)** | App sécurisée développée pour le Ministère de l'Éducation — 2FA, conformité ISO 27001 | React · Tailwind · SQL · 2FA |
-| ✈️ **[SkyLuxe](https://github.com/mohammedazzouzi0)** | Plateforme de réservation de jets privés, yachts et villas | React · Node.js |
-| 🏢 **[ASTZ](https://github.com/mohammedazzouzi0)** | Plateforme web multi-modules de gestion | PHP · JavaScript · SQL |
+| 🔒 **[Application Web Sécurisée](https://github.com/mohammedazzouzi0/REMPLACER-PAR-LE-LIEN-DU-REPO)** | App sécurisée développée pour le Ministère de l'Éducation — 2FA, conformité ISO 27001 | React · Tailwind · SQL · 2FA |
+| ✈️ **[SkyLuxe](https://github.com/mohammedazzouzi0/REMPLACER-PAR-LE-LIEN-DU-REPO)** | Plateforme de réservation de jets privés, yachts et villas | React · Node.js |
+| 🏢 **[ASTZ](https://github.com/mohammedazzouzi0/REMPLACER-PAR-LE-LIEN-DU-REPO)** | Plateforme web multi-modules de gestion | PHP · JavaScript · SQL |
+
+> 💡 Pense à remplacer ces liens par ceux de tes vrais dépôts (actuellement les 3 pointent vers la même URL générique) — un recruteur qui clique dessus doit atterrir sur le bon projet.
 
 ---
 
