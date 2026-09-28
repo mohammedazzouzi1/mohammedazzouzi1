@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005c96&height=200&section=header&text=Mohammed%20Azzouzi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=%C3%89tudiant%20Ing%C3%A9nieur%20Informatique%20%7C%20Full%20Stack%20%26%20Cybers%C3%A9curit%C3%A9&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/banner.svg" alt="Mohammed Azzouzi" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=005C96&center=true&vCenter=true&width=900&lines=D%C3%A9veloppement+Full+Stack;Cybers%C3%A9curit%C3%A9+%26+Conformit%C3%A9+ISO+27001;IA+%26+Automatisation;%C3%80+la+recherche+d%27un+stage+PFE+d%C3%A8s+f%C3%A9vrier+2027+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -150,5 +150,5 @@ linkedin : linkedin.com/in/mohammed-azzouzi
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005c96&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" alt="" width="100%"/>
 </div>
